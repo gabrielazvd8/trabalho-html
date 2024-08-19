@@ -1,0 +1,233 @@
+body{
+
+    background-color: #B0AFAF;
+    font-family: 'open sans',sans-serif;
+    font-optical-sizing: auto;
+
+    
+}
+
+.link{
+
+    color: #555555;
+    width: 1388px;
+    height: 32px;
+    margin-left: 17px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+
+}
+
+h1{
+
+    color: #111111;
+    width: 969px;
+    height: 256px;
+    top: 74px;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    margin-left: 235px;
+
+}
+
+.textoinicio{
+
+    color:#555555;
+    width: 839px;
+    height: 84px;
+    top: 363px;
+    margin-left: 235px;
+    font-weight: 400;
+    line-height: 28px;
+    font-size: 18px;
+
+}
+
+.autoria{
+
+    color: #000000;
+    width: 303px;
+    height: 20px;
+    top: 480px;
+    margin-left: 235px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+
+}
+
+.strong{
+
+    font-weight: 700;
+
+}
+
+.data{
+
+    color: #000000;
+    width: 226px;
+    height: 16px;
+    top: 512px;
+    margin-left: 235px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16.34px;
+
+}
+
+hr{
+
+    color: #B0AFAF;
+    width: 1020px;
+    top: 554px;
+    left: 210px;
+    border: 1px 0px 0px 0px;
+
+}
+
+.paragrafo{
+
+    color: #111111;
+    width: 691px;
+    height: 160px;
+    top: 623px;
+    margin-left: 375px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+
+}
+.negrito{
+
+    color: #A6130A;    
+    font-weight: 700;
+
+}
+ul{
+
+    color: #A6130A;
+    width: 675px;
+    height: 192px;
+    top: 797px;
+    margin-left: 382px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+}
+
+.paragrafo2{
+
+    color: #111111;
+    width: 685px;
+    height: 224px;
+    top: 1014px;
+    margin-left: 375px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+
+}
+
+.paragrafo3{
+
+    color: #333333;
+    width: 683px;
+    height: 128px;
+    top: 1255px;
+    margin-left: 375px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+
+}
+
+.destaque{
+
+    color: #333333;
+    width: 422px;
+    height: 32px;
+    top: 1401.15px;
+    margin-left: 375px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+
+}
+
+h2{
+
+    color: #111111;
+    width: 437px;
+    height: 36px;
+    top: 1465.2px;
+    margin-left: 375px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 36px;
+
+}
+
+.paragrafo4{
+
+    color: #333333;
+    width: 669px;
+    height: 224px;
+    top: 1520px;
+    margin-left: 375px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+
+}
+
+.fala{
+
+    color: #333333;
+    width: 665px;
+    height: 252px;
+    top: 1766px;
+    margin-left: 389px;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+
+}
+
+.linhavertical{
+
+    color: #A6130A;
+    border-left: 3px solid rgb(197, 11, 11);
+    width: 2px;
+    height: 256px;
+    top: 1766px;
+    margin-left: 375px;
+
+}
+
+.fala2{
+
+    color: #333333;
+    width: 665px;
+    height: 252px;
+    top: 1766px;
+    margin-left: 389px;
+    font-weight: 600;
+    font-size: 1.5em;
+    padding: 10px;
+    border-left: 3px solid rgb(197, 11, 11);
+
+}
+
+.conteiner{
+
+    width: 1350px;
+    height: 1950px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0, 0.1);
+
+}
+
